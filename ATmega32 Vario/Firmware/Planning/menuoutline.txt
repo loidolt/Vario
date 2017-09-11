@@ -1,0 +1,85 @@
+main screen
+
+	two modes
+	
+		variometer
+		
+				climb/descent rate graph on left hand side
+				large climb/descent rate is primary
+				altitude is secondary
+				
+		altimeter (4 main screens)
+		
+			screen 1 (ground)
+				display time
+				last free fall time
+				last canopy flight time
+				last opening altitude
+			screen 2 (plane ride)
+				altitude is primary
+				time is secondary
+			screen 3 (freefall)
+				full screen altitude
+			screen 4 (under canopy)
+				altitude is primary
+				descent rate is secondary
+
+	triggers for each altimeter screen modes
+		
+		screen 1
+			when altitude is within 20 ft for one minute or more
+			
+		screen 2
+			when variometer reports ascent rate of 200? fpm
+		
+		screen 3
+			when varimeter reports descent rate of 5000 fpm
+		
+		screen 4
+			when variometer reports descent rate of 2000 fpm
+			
+settings (hold center button 5 seconds to prevent miss hits)
+
+	zero altitude
+	
+	switch mode
+	
+	volume level
+	
+	variometer config
+		change between sensitivities
+			low
+			medium
+			high
+		show altitude or rate as primary
+		
+	altimeter config
+		select canopy flight alarms
+	
+	set time/date/alarms
+	
+	games?
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
